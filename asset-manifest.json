@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/checkers-test/static/css/main.abf014ed.css",
+    "main.js": "/checkers-test/static/js/main.7ef712b9.js",
+    "index.html": "/checkers-test/index.html",
+    "main.abf014ed.css.map": "/checkers-test/static/css/main.abf014ed.css.map",
+    "main.7ef712b9.js.map": "/checkers-test/static/js/main.7ef712b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abf014ed.css",
+    "static/js/main.7ef712b9.js"
+  ]
+}

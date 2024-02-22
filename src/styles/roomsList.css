@@ -1,0 +1,26 @@
+.rooms-container {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  margin-top: 15px;
+  border-radius: 2px;
+  height: 65vh;
+  overflow: auto;
+}
+.room-item {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(40, 40, 40);
+  background-color: #a1ce6e;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  transition: 0.3s;
+  border-radius: 10px;
+  padding: 12px;
+  margin: 15px;
+  cursor: pointer;
+}
+.room-item:hover {
+  background-color: rgb(152, 195, 53);
+}

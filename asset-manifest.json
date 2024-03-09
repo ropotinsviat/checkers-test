@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/checkers-test/static/css/main.5d6d0f2b.css",
-    "main.js": "/checkers-test/static/js/main.94f9607d.js",
+    "main.js": "/checkers-test/static/js/main.3683908f.js",
     "static/media/history.svg": "/checkers-test/static/media/history.0fc271eda8b610f62d3e838f700d995e.svg",
     "static/media/profile.svg": "/checkers-test/static/media/profile.23ea1233d7e2cebec0a11d8a88b2da1a.svg",
     "static/media/cup.svg": "/checkers-test/static/media/cup.8067e7b2cea9d9f7d98740926e12b40d.svg",
@@ -10,10 +10,10 @@
     "index.html": "/checkers-test/index.html",
     "static/media/burger1.svg": "/checkers-test/static/media/burger1.4011566481cf6511143c290797db8e57.svg",
     "main.5d6d0f2b.css.map": "/checkers-test/static/css/main.5d6d0f2b.css.map",
-    "main.94f9607d.js.map": "/checkers-test/static/js/main.94f9607d.js.map"
+    "main.3683908f.js.map": "/checkers-test/static/js/main.3683908f.js.map"
   },
   "entrypoints": [
     "static/css/main.5d6d0f2b.css",
-    "static/js/main.94f9607d.js"
+    "static/js/main.3683908f.js"
   ]
 }

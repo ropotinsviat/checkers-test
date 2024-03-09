@@ -3,7 +3,7 @@ import axios from "axios";
 
 const $api = axios.create({
   withCredentials: true,
-  baseURL: "http://localhost:5000/api",
+  baseURL: "https://checkers-server.onrender.com/api",
 });
 
 export default class Store {

@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/checkers-test/static/css/main.49cc16d9.css",
-    "main.js": "/checkers-test/static/js/main.b6b1eac6.js",
+    "main.css": "/checkers-test/static/css/main.5d6d0f2b.css",
+    "main.js": "/checkers-test/static/js/main.1433b9b2.js",
+    "static/media/history.svg": "/checkers-test/static/media/history.0fc271eda8b610f62d3e838f700d995e.svg",
+    "static/media/profile.svg": "/checkers-test/static/media/profile.23ea1233d7e2cebec0a11d8a88b2da1a.svg",
+    "static/media/cup.svg": "/checkers-test/static/media/cup.8067e7b2cea9d9f7d98740926e12b40d.svg",
+    "static/media/plus.svg": "/checkers-test/static/media/plus.8c9a76d580b0de680240aa7de1491b89.svg",
+    "static/media/home1.svg": "/checkers-test/static/media/home1.f0cdb3d911ac7c504c3fcbab828952b8.svg",
     "index.html": "/checkers-test/index.html",
-    "main.49cc16d9.css.map": "/checkers-test/static/css/main.49cc16d9.css.map",
-    "main.b6b1eac6.js.map": "/checkers-test/static/js/main.b6b1eac6.js.map"
+    "static/media/burger1.svg": "/checkers-test/static/media/burger1.4011566481cf6511143c290797db8e57.svg",
+    "main.5d6d0f2b.css.map": "/checkers-test/static/css/main.5d6d0f2b.css.map",
+    "main.1433b9b2.js.map": "/checkers-test/static/js/main.1433b9b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.49cc16d9.css",
-    "static/js/main.b6b1eac6.js"
+    "static/css/main.5d6d0f2b.css",
+    "static/js/main.1433b9b2.js"
   ]
 }
